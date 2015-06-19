@@ -1,3 +1,4 @@
+## Parting Advice on How to Build, Maintain, and/or Advance Your Career in Software Quality Assurance
 
 1. Locate some QA or related (web page maintenance) work for a non-profit, that will help build your resumé, your confidence, your skill set, and your LinkedIn profile.
 
