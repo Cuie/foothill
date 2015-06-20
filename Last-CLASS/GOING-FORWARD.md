@@ -44,4 +44,4 @@
 
 22. If you find yourself without work and can afford to take a couple months off, do so! Spend at least part of the time improving your skills. If you're self-disciplined, a period of unemployment or underemployment can be a much better time to learn new things than when you have a job. 
 
-23. Make a resolution to do *something* to improve your QA status *every  day or every other day or every week, and **stick to it!**
+23. Make a resolution to do *something* to improve your QA status *every*  day or every other day or every week, and **stick to it!**
