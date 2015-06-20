@@ -40,4 +40,8 @@
 
 20. Whenever you are asked to do an on-site interview for a QA position, be sure to prepare a presentation in advance that shows off what you can do for that specific company. Bug reports about their product, test cases for their product, screen videos of automated tests for their product, etc., can make a hugely positive impression.
 
-21. Make a resolution to do *something* to improve your QA status *every  day or every other day or every week, and **stick to it!**
+21. Worry about your next job as much as your current one, even if your current one is going great! Jobs can disappear in a heartbeat!
+
+22. If you find yourself without work and can afford to take a couple months off, do so! Spend at least part of the time improving your skills. If you're self-disciplined, a period of unemployment or underemployment can be a much better time to learn new things than when you have a job. 
+
+23. Make a resolution to do *something* to improve your QA status *every  day or every other day or every week, and **stick to it!**
